@@ -95,3 +95,8 @@ html, body{
   color: #343A40;
   text-decoration: none;
 }
+
+@media (max-width: 768px) {
+  .art-entry {
+    flex: 1 1 100%; 
+}
